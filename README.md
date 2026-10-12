@@ -1,10 +1,10 @@
 # 🧰 Awesome Tools
 
-A curated directory of **312+ free, browser-based tools** from [toolz.dev](https://toolz.dev) — developer utilities, converters, generators, and calculators. Every tool runs 100% in your browser: no uploads, no signup, no data leaves your device.
+A curated directory of **313+ free, browser-based tools** from [toolz.dev](https://toolz.dev) — developer utilities, converters, generators, and calculators. Every tool runs 100% in your browser: no uploads, no signup, no data leaves your device.
 
 **Website:** [toolz.dev](https://toolz.dev)
 
-> 312 tools across 29 categories · last updated 2026-10-12
+> 313 tools across 30 categories · last updated 2026-10-12
 
 ---
 
@@ -22,6 +22,7 @@ A curated directory of **312+ free, browser-based tools** from [toolz.dev](https
 - [Diff & Compare](#diff-compare)
 - [Docs & Notes](#docs-notes)
 - [Downloaders](#downloaders)
+- [editors](#editors)
 - [Encoding](#encoding)
 - [Generators](#generators)
 - [Image Tools](#image-tools)
@@ -383,6 +384,10 @@ A curated directory of **312+ free, browser-based tools** from [toolz.dev](https
 - [SaveFrom](https://en.savefrom.net/) - Download videos from YouTube, Dailymotion, and more.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader.
 
+## editors
+
+- [Video Editor](https://toolz.dev/tools/video-editor) - Cut a video down to the part you want, in your browser. Set a start and end, preview the cut, and export without uploading the file anywhere.
+
 ## Encoding
 
 - [Caesar Cipher Encoder & Decoder](https://toolz.dev/tools/caesar-cipher) - Encode and decode Caesar cipher text with any shift, plus ROT13 and ROT47. Brute-force all 25 shifts to crack an unknown key.
@@ -741,6 +746,8 @@ A curated directory of **312+ free, browser-based tools** from [toolz.dev](https
 - [Google Fonts](https://fonts.google.com/) - Free open-source font library.
 - [Font Squirrel](https://www.fontsquirrel.com/) - Free fonts for commercial use.
 - [Fontsource](https://fontsource.org/) - Self-host open-source fonts in neatly bundled NPM packages.
+
+---
 
 ---
 
