@@ -386,7 +386,7 @@ A curated directory of **313+ free, browser-based tools** from [toolz.dev](https
 
 ## editors
 
-- [Video Editor](https://toolz.dev/tools/video-editor) - Cut a video down to the part you want, in your browser. Set a start and end, preview the cut, and export without uploading the file anywhere.
+- [Video Trimmer](https://toolz.dev/tools/video-trimmer) - Cut a video down to the part you want, in your browser. Set a start and end, preview the cut, and export without uploading the file anywhere.
 
 ## Encoding
 
@@ -746,6 +746,8 @@ A curated directory of **313+ free, browser-based tools** from [toolz.dev](https
 - [Google Fonts](https://fonts.google.com/) - Free open-source font library.
 - [Font Squirrel](https://www.fontsquirrel.com/) - Free fonts for commercial use.
 - [Fontsource](https://fontsource.org/) - Self-host open-source fonts in neatly bundled NPM packages.
+
+---
 
 ---
 
