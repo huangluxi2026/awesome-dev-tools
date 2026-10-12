@@ -1,10 +1,10 @@
 # 🧰 Awesome Tools
 
-A curated directory of **313+ free, browser-based tools** from [toolz.dev](https://toolz.dev) — developer utilities, converters, generators, and calculators. Every tool runs 100% in your browser: no uploads, no signup, no data leaves your device.
+A curated directory of **314+ free, browser-based tools** from [toolz.dev](https://toolz.dev) — developer utilities, converters, generators, and calculators. Every tool runs 100% in your browser: no uploads, no signup, no data leaves your device.
 
 **Website:** [toolz.dev](https://toolz.dev)
 
-> 313 tools across 30 categories · last updated 2026-10-12
+> 314 tools across 30 categories · last updated 2026-10-12
 
 ---
 
@@ -386,6 +386,7 @@ A curated directory of **313+ free, browser-based tools** from [toolz.dev](https
 
 ## editors
 
+- [Video Editor](https://toolz.dev/tools/video-editor) - Join several clips into one video, trim each of them, reorder them, and set the resolution, speed and audio. Everything runs in your browser, so nothing is uploaded.
 - [Video Trimmer](https://toolz.dev/tools/video-trimmer) - Cut a video down to the part you want, in your browser. Set a start and end, preview the cut, and export without uploading the file anywhere.
 
 ## Encoding
@@ -746,6 +747,8 @@ A curated directory of **313+ free, browser-based tools** from [toolz.dev](https
 - [Google Fonts](https://fonts.google.com/) - Free open-source font library.
 - [Font Squirrel](https://www.fontsquirrel.com/) - Free fonts for commercial use.
 - [Fontsource](https://fontsource.org/) - Self-host open-source fonts in neatly bundled NPM packages.
+
+---
 
 ---
 
