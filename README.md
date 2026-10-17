@@ -1,10 +1,10 @@
 # 🧰 Awesome Tools
 
-A curated directory of **314+ free, browser-based tools** from [toolz.dev](https://toolz.dev) — developer utilities, converters, generators, and calculators. Every tool runs 100% in your browser: no uploads, no signup, no data leaves your device.
+A curated directory of **315+ free, browser-based tools** from [toolz.dev](https://toolz.dev) — developer utilities, converters, generators, and calculators. Every tool runs 100% in your browser: no uploads, no signup, no data leaves your device.
 
 **Website:** [toolz.dev](https://toolz.dev)
 
-> 314 tools across 30 categories · last updated 2026-10-17
+> 315 tools across 30 categories · last updated 2026-10-17
 
 ---
 
@@ -263,6 +263,7 @@ A curated directory of **314+ free, browser-based tools** from [toolz.dev](https
 - [Scientific Notation Converter](https://toolz.dev/tools/scientific-notation-converter) - Convert numbers between scientific notation, E-notation, engineering notation, and plain decimal with exact digit-by-digit precision, plus order of magnitude and significant-figure rounding.
 - [Time Zone Converter](https://toolz.dev/tools/timezone-converter) - Convert any date and time between IANA time zones with DST-accurate offsets, see the gap between two cities, and plan meetings across the world
 - [Unit Converter](https://toolz.dev/tools/unit-converter) - Convert length, weight, temperature, area, volume, speed, time, data, pressure, energy, and angle units instantly with exact conversion factors
+- [Video Compressor](https://toolz.dev/tools/video-compressor) - Make a video smaller in your browser. Choose how hard to compress, drop the resolution if you want, and download an MP4 or WebM. Nothing is uploaded.
 - [CloudConvert](https://cloudconvert.com/) - Convert anything to anything. 200+ formats supported.
 - [Epoch Converter](https://www.epochconverter.com/) - Convert epoch timestamps to human-readable dates and vice versa.
 - [TableConvert](https://tableconvert.com/) - Convert between table formats (Markdown, CSV, JSON, HTML, SQL).
@@ -747,6 +748,8 @@ A curated directory of **314+ free, browser-based tools** from [toolz.dev](https
 - [Google Fonts](https://fonts.google.com/) - Free open-source font library.
 - [Font Squirrel](https://www.fontsquirrel.com/) - Free fonts for commercial use.
 - [Fontsource](https://fontsource.org/) - Self-host open-source fonts in neatly bundled NPM packages.
+
+---
 
 ---
 
