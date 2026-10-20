@@ -1,10 +1,10 @@
 # 🧰 Awesome Tools
 
-A curated directory of **315+ free, browser-based tools** from [toolz.dev](https://toolz.dev) — developer utilities, converters, generators, and calculators. Every tool runs 100% in your browser: no uploads, no signup, no data leaves your device.
+A curated directory of **334+ free, browser-based tools** from [toolz.dev](https://toolz.dev) — developer utilities, converters, generators, and calculators. Every tool runs 100% in your browser: no uploads, no signup, no data leaves your device.
 
 **Website:** [toolz.dev](https://toolz.dev)
 
-> 315 tools across 30 categories · last updated 2026-10-19
+> 334 tools across 30 categories · last updated 2026-10-20
 
 ---
 
@@ -256,6 +256,9 @@ A curated directory of **315+ free, browser-based tools** from [toolz.dev](https
 
 ## Converters
 
+- [Audio Converter](https://toolz.dev/tools/audio-converter) - Convert M4A, MP3, WAV, OGG and FLAC in your browser, with nothing uploaded
+- [Audio Extractor](https://toolz.dev/tools/audio-extractor) - Pull the audio track out of a video in your browser, losslessly where the format allows
+- [EPUB to PDF](https://toolz.dev/tools/ebook-converter) - Convert an EPUB ebook into a PDF you can print or read anywhere, or into plain text. Runs in your browser, so the book is never uploaded.
 - [NATO Phonetic Alphabet Translator](https://toolz.dev/tools/nato-phonetic-alphabet) - Translate text into the NATO phonetic alphabet (Alfa, Bravo, Charlie) and decode code words back to letters
 - [Number Base Converter](https://toolz.dev/tools/number-base-converter) - Convert integers between binary, octal, decimal, hexadecimal, and any base from 2 to 36 with exact BigInt precision and live bit and byte counts
 - [Number to Words Converter](https://toolz.dev/tools/number-to-words) - Convert numbers to words and words back to numbers in English - with cardinal, ordinal, currency, and decimal support for values from small integers up to decillions.
@@ -264,6 +267,7 @@ A curated directory of **315+ free, browser-based tools** from [toolz.dev](https
 - [Time Zone Converter](https://toolz.dev/tools/timezone-converter) - Convert any date and time between IANA time zones with DST-accurate offsets, see the gap between two cities, and plan meetings across the world
 - [Unit Converter](https://toolz.dev/tools/unit-converter) - Convert length, weight, temperature, area, volume, speed, time, data, pressure, energy, and angle units instantly with exact conversion factors
 - [Video Compressor](https://toolz.dev/tools/video-compressor) - Make a video smaller in your browser. Choose how hard to compress, drop the resolution if you want, and download an MP4 or WebM. Nothing is uploaded.
+- [Video Converter](https://toolz.dev/tools/video-converter) - Convert MOV, MP4, WebM and GIF in your browser, with MOV to MP4 done losslessly
 - [CloudConvert](https://cloudconvert.com/) - Convert anything to anything. 200+ formats supported.
 - [Epoch Converter](https://www.epochconverter.com/) - Convert epoch timestamps to human-readable dates and vice versa.
 - [TableConvert](https://tableconvert.com/) - Convert between table formats (Markdown, CSV, JSON, HTML, SQL).
@@ -379,7 +383,15 @@ A curated directory of **315+ free, browser-based tools** from [toolz.dev](https
 
 ## Downloaders
 
+- [Facebook Video Downloader](https://toolz.dev/tools/facebook-video-downloader) - Save a public Facebook video or reel by pasting its link. Returns the file Facebook serves, in HD where the uploader published one, with nothing added to the picture.
+- [Instagram Downloader](https://toolz.dev/tools/instagram-downloader) - Save a public Instagram reel, video, photo or carousel by pasting its link. The file comes from Instagram, at the quality it was posted, with no watermark added.
+- [Pinterest Downloader](https://toolz.dev/tools/pinterest-video-downloader) - Save a Pinterest video, idea pin or image by pasting the pin link. Returns the original file rather than the resized preview the board shows.
+- [Reddit Video Downloader](https://toolz.dev/tools/reddit-video-downloader) - Save a Reddit video by pasting the post link. Reddit stores sound as a separate track, so the audio is offered alongside the video rather than quietly left out.
+- [Snapchat Video Downloader](https://toolz.dev/tools/snapchat-video-downloader) - Save a public Snapchat Spotlight video or a public story by pasting its link. Private snaps between people are not public and cannot be read by any tool.
 - [TikTok Video Downloader](https://toolz.dev/tools/tiktok-downloader) - Download TikTok videos without watermark. Save videos, music, and cover images from any TikTok link.
+- [Twitch Clip Downloader](https://toolz.dev/tools/twitch-clip-downloader) - Save a Twitch clip by pasting its link. Returns the MP4 Twitch serves, at the qualities it holds, so the clip survives the channel that made it.
+- [Vimeo Downloader](https://toolz.dev/tools/vimeo-downloader) - Save a public Vimeo video by pasting its link. Returns the renditions Vimeo serves, largest first, when the uploader has not restricted the video.
+- [X Video Downloader](https://toolz.dev/tools/twitter-video-downloader) - Save a video or GIF from a public post on X by pasting its link. Every rendition X holds is offered, largest first, with nothing added to the picture.
 - [4K Video Downloader](https://www.4kdownload.com/) - Download video, audio, and subtitles from YouTube.
 - [Cobalt](https://cobalt.tools/) - Save content from social media without ads or tracking.
 - [SaveFrom](https://en.savefrom.net/) - Download videos from YouTube, Dailymotion, and more.
@@ -419,6 +431,7 @@ A curated directory of **315+ free, browser-based tools** from [toolz.dev](https
 
 ## Image Tools
 
+- [Add Text to Image](https://toolz.dev/tools/add-text-to-image) - Put a caption, title or watermark on a photo in your browser. Nine positions, auto-fit sizing, an outline for readability, and nothing uploaded anywhere.
 - [AVIF to JPG Converter](https://toolz.dev/tools/avif-to-jpg) - Convert AVIF images to JPG in your browser, in batches, no upload needed
 - [AVIF to PNG Converter](https://toolz.dev/tools/avif-to-png) - Convert AVIF images to PNG in your browser, in batches, with transparency kept
 - [CR2 to JPG Converter](https://toolz.dev/tools/cr2-to-jpg) - Convert Canon CR2 RAW files to JPG in your browser by extracting the JPEG preview the camera embedded in each file
@@ -433,6 +446,7 @@ A curated directory of **315+ free, browser-based tools** from [toolz.dev](https
 - [Image Converter](https://toolz.dev/tools/format-converter) - Convert JPG, PNG, WebP, AVIF, GIF, BMP, ICO, HEIC, TIFF, PSD, SVG, CR2, DNG and PDF files to JPG, PNG, WebP, GIF, ICO, PDF or SVG
 - [Image Dither](https://toolz.dev/tools/image-dither) - Turn photos into halftone, Bayer and 1-bit dithered posters
 - [Image Resize](https://toolz.dev/tools/image-resize) - Resize images while maintaining aspect ratio
+- [Image Splitter](https://toolz.dev/tools/image-splitter) - Cut an image into a grid of equal tiles in your browser, then download them as a ZIP
 - [JFIF to JPG Converter](https://toolz.dev/tools/jfif-to-jpg) - Convert JFIF images to JPG in your browser, in batches, a lossless rename
 - [JFIF to PNG Converter](https://toolz.dev/tools/jfif-to-png) - Convert JFIF images to PNG in your browser, in batches, no upload needed
 - [JPG to ICO Converter](https://toolz.dev/tools/jpg-to-ico) - Convert JPG images to ICO favicons in your browser, in batches
@@ -440,8 +454,10 @@ A curated directory of **315+ free, browser-based tools** from [toolz.dev](https
 - [JPG to PNG Converter](https://toolz.dev/tools/jpg-to-png) - Convert JPG images to PNG in your browser, in batches, no upload needed
 - [JPG to SVG Converter](https://toolz.dev/tools/jpg-to-svg) - Trace a JPG logo, scan or signature into an SVG of filled shapes with 2, 8 or 16 colors. It does not recover the original vector design, and photos give large, blotchy SVGs
 - [JPG to WebP Converter](https://toolz.dev/tools/jpg-to-webp) - Convert JPG images to WebP in your browser, in batches, no upload needed
+- [Merge Images](https://toolz.dev/tools/image-merge) - Combine several images into one: side by side, stacked, or in a grid. Sizes are matched on the axis that has to line up, and nothing is uploaded.
 - [PDF to JPG Converter](https://toolz.dev/tools/pdf-to-jpg) - Save every page of a PDF as its own JPG image at 72, 150 or 300 DPI, with a ZIP download, client-side with no upload
 - [PDF to PNG Converter](https://toolz.dev/tools/pdf-to-png) - Save every page of a PDF as its own lossless PNG image at 72, 150 or 300 DPI, with a ZIP download, client-side with no upload
+- [PFP Maker](https://toolz.dev/tools/pfp-maker) - Crop a photo into a square or circle profile picture at the size you need. Drag to position, zoom to frame it, and export PNG or JPG without uploading anything.
 - [PNG to GIF Converter](https://toolz.dev/tools/png-to-gif) - Convert PNG images to GIF in your browser, in batches, no upload needed
 - [PNG to ICO Converter](https://toolz.dev/tools/png-to-ico) - Convert PNG images to ICO favicons in your browser, in batches
 - [PNG to JPG Converter](https://toolz.dev/tools/png-to-jpg) - Convert PNG images to JPG in your browser, in batches, no upload needed
@@ -533,11 +549,14 @@ A curated directory of **315+ free, browser-based tools** from [toolz.dev](https
 - [Merge PDF](https://toolz.dev/tools/merge-pdf) - Combine multiple PDF files into a single document with drag-and-drop reordering
 - [N-Up PDF](https://toolz.dev/tools/n-up-pdf) - Arrange multiple pages on a single sheet (2-up, 4-up, 6-up, 9-up)
 - [Organize PDF](https://toolz.dev/tools/organize-pdf) - Rearrange, rotate, duplicate, and delete pages in your PDF document
+- [PDF to Text](https://toolz.dev/tools/pdf-to-text) - Pull the text out of a PDF and save it as a .txt file, in your browser. Keep the page layout or reflow it into paragraphs, with or without page markers.
+- [PDF to Word](https://toolz.dev/tools/pdf-to-word) - Turn a PDF into an editable .docx in your browser. The text comes back as paragraphs you can edit in Word, Pages, LibreOffice or Google Docs. Nothing is uploaded.
 - [Posterize PDF](https://toolz.dev/tools/posterize-pdf) - Split large PDF pages into multiple smaller pages for poster printing
 - [Remove Blank Pages](https://toolz.dev/tools/remove-blank-pages) - Find and delete blank pages from a PDF by analysing what each page draws, then download the cleaned file.
 - [Reverse PDF Page Order](https://toolz.dev/tools/reverse-pdf-pages) - Reverse the order of pages in your PDF document. The last page becomes first, and the first becomes last.
 - [Rotate PDF Pages](https://toolz.dev/tools/rotate-pdf) - Rotate PDF pages by 90, 180, or 270 degrees. Apply rotation to all pages or select specific pages to rotate.
 - [Split PDF](https://toolz.dev/tools/split-pdf) - Split a PDF file into multiple documents by page ranges
+- [Word to PDF](https://toolz.dev/tools/word-to-pdf) - Convert a .docx to PDF in your browser. Headings, paragraphs and lists are typeset onto A4, Letter or A5 pages. The document is never uploaded.
 - [DocuPub](https://docupub.com/pdfconvert/) - Online PDF converter.
 - [iLovePDF](https://www.ilovepdf.com/) - Every tool you need to work with PDFs.
 - [PDF.js](https://mozilla.github.io/pdf.js/) - PDF viewer built with HTML5 by Mozilla.
@@ -748,6 +767,8 @@ A curated directory of **315+ free, browser-based tools** from [toolz.dev](https
 - [Google Fonts](https://fonts.google.com/) - Free open-source font library.
 - [Font Squirrel](https://www.fontsquirrel.com/) - Free fonts for commercial use.
 - [Fontsource](https://fontsource.org/) - Self-host open-source fonts in neatly bundled NPM packages.
+
+---
 
 ---
 
